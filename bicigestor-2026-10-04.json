@@ -1,0 +1,123 @@
+{
+  "cats": [
+    {
+      "id": "tkjijmpm262",
+      "name": "Ventas",
+      "color": "#4f6bff",
+      "subs": [
+        {
+          "id": "26f5gpkm262",
+          "name": "Pedidos"
+        },
+        {
+          "id": "v6tz237m262",
+          "name": "Stock"
+        },
+        {
+          "id": "wutcvv9m262",
+          "name": "Precios y Compras"
+        }
+      ]
+    },
+    {
+      "id": "7nspybqm262",
+      "name": "Taller",
+      "color": "#f59e0b",
+      "subs": [
+        {
+          "id": "n38jvtmm262",
+          "name": "Reparaciones"
+        }
+      ]
+    },
+    {
+      "id": "d8e0jk3m262",
+      "name": "Marketing",
+      "color": "#ec4899",
+      "subs": [
+        {
+          "id": "iuwu4izm262",
+          "name": "Redes Sociales"
+        },
+        {
+          "id": "43ibzo6m262",
+          "name": "Campañas"
+        },
+        {
+          "id": "mx9druxm262",
+          "name": "Colecciones"
+        }
+      ]
+    },
+    {
+      "id": "dnc1t4om262",
+      "name": "Comunidad",
+      "color": "#10b981",
+      "subs": [
+        {
+          "id": "dt0px81m262",
+          "name": "Eventos"
+        },
+        {
+          "id": "y9zfofjm262",
+          "name": "Gestión de comunidad"
+        }
+      ]
+    },
+    {
+      "id": "ne8yjs0m262",
+      "name": "Administración",
+      "color": "#64748b",
+      "subs": [
+        {
+          "id": "tz3t801m262",
+          "name": "Facturas"
+        },
+        {
+          "id": "jpceintm262",
+          "name": "Proveedores"
+        },
+        {
+          "id": "ei9cwb4m262",
+          "name": "Asesoría"
+        }
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "vzum4fsmrws",
+      "title": "Reparacion de Bici",
+      "catId": "7nspybqm262",
+      "subId": "n38jvtmm262",
+      "priority": "med",
+      "due": "2026-10-05",
+      "client": "Erlantz",
+      "status": "doing",
+      "notes": [
+        {
+          "id": "d4odaevnj1g",
+          "text": "sdsdsdsd",
+          "ts": "2026-10-04T17:05:22.468Z"
+        },
+        {
+          "id": "a9odk9irsks",
+          "text": "dfdgdfg",
+          "ts": "2026-10-04T17:08:41.452Z"
+        },
+        {
+          "id": "4q2ubrhru5g",
+          "text": "dfdfsdxf",
+          "ts": "2026-10-04T17:08:43.492Z"
+        },
+        {
+          "id": "4vbxx6vrvuk",
+          "text": "dfsdfsdf",
+          "ts": "2026-10-04T17:08:45.692Z"
+        }
+      ],
+      "createdAt": "2026-10-04T17:04:47.308Z",
+      "completedAt": null
+    }
+  ]
+}
